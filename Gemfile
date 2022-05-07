@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'faker', '~> 2.20.0'
+gem 'ruby2d', '~> 0.11.3'
